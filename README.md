@@ -1,0 +1,1 @@
+Summer project on the dynamical system applied to the time evolution scalar field cosmological model. Produced a phase portrait from the automomatous equations to illustrate the evolution of scalar field energy densities, showing that sufficiently flat potential results in cosmic acceleration. 
